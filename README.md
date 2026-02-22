@@ -6,9 +6,9 @@ AntiYaware python script
 
 Порядок установки:
   1. Python (скачиваем и устанавливаем)
-Установите библиотеки командой в терминале:
-  2. python -m pip install pyautogui 
-  3. python -m pip install pygetwindow
+  2. Установите библиотеки командой в терминале:
+  2.1. python -m pip install pyautogui 
+  2.2. python -m pip install pygetwindow
 
 Сам скрипт запускаем также из терминала.  
 Для завершения работы скрипта, переместите курсор в любой угол экрана.
